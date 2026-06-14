@@ -1,5 +1,7 @@
 # mimocode-auth
 
+[中文文档](./README_CN.md)
+
 OpenCode plugin for [MiMo Auto](https://api.xiaomimimo.com) free model — JWT auto-auth, SHA256 device fingerprint, SSE streaming.
 
 ## Features
